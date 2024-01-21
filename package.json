@@ -1,0 +1,11 @@
+{
+  "name": "making-flappy-bird",
+  "version": "1.0.0",
+  "description": "Bot that allows you to play flappybird",
+  "main": "index.js",
+  "author": "Lokry",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
